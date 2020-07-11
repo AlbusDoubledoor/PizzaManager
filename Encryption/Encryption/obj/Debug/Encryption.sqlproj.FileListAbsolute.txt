@@ -1,0 +1,10 @@
+C:\Pizza Manager\Encryption\Encryption\bin\Debug\Encryption.dacpac
+C:\Pizza Manager\Encryption\Encryption\bin\Debug\Encryption.dll
+C:\Pizza Manager\Encryption\Encryption\bin\Debug\Encryption.pdb
+C:\Pizza Manager\Encryption\Encryption\obj\Debug\Encryption.dll
+C:\Pizza Manager\Encryption\Encryption\obj\Debug\Encryption.pdb
+C:\Pizza Manager\Encryption\Encryption\obj\Debug\Encryption.sqlprojAssemblyReference.cache
+C:\Pizza Manager\Encryption\Encryption\obj\Debug\Model.xml
+C:\Pizza Manager\Encryption\Encryption\obj\Debug\refactor.xml
+C:\Pizza Manager\Encryption\Encryption\obj\Debug\postdeploy.sql
+C:\Pizza Manager\Encryption\Encryption\obj\Debug\predeploy.sql

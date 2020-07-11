@@ -1,0 +1,12 @@
+C:\Pizza Manager\Pizza Manager\Pizza Manager\bin\Release\Pizza Manager.exe.config
+C:\Pizza Manager\Pizza Manager\Pizza Manager\bin\Release\Pizza Manager.exe
+C:\Pizza Manager\Pizza Manager\Pizza Manager\bin\Release\Pizza Manager.pdb
+C:\Pizza Manager\Pizza Manager\Pizza Manager\obj\Release\Pizza Manager.csprojAssemblyReference.cache
+C:\Pizza Manager\Pizza Manager\Pizza Manager\obj\Release\Pizza_Manager.AuthenticationForm.resources
+C:\Pizza Manager\Pizza Manager\Pizza Manager\obj\Release\Pizza_Manager.HeadmanagerForm.resources
+C:\Pizza Manager\Pizza Manager\Pizza Manager\obj\Release\Pizza_Manager.ManagerForm.resources
+C:\Pizza Manager\Pizza Manager\Pizza Manager\obj\Release\Pizza_Manager.Properties.Resources.resources
+C:\Pizza Manager\Pizza Manager\Pizza Manager\obj\Release\Pizza Manager.csproj.GenerateResource.cache
+C:\Pizza Manager\Pizza Manager\Pizza Manager\obj\Release\Pizza Manager.csproj.CoreCompileInputs.cache
+C:\Pizza Manager\Pizza Manager\Pizza Manager\obj\Release\Pizza Manager.exe
+C:\Pizza Manager\Pizza Manager\Pizza Manager\obj\Release\Pizza Manager.pdb
